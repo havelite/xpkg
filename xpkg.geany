@@ -18,11 +18,12 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=0
-FILE_NAME_0=0;None;0;16;0;1;1;/data/Projects/xpkg/README;0;4
+current_page=1
+FILE_NAME_0=4;None;0;16;0;1;1;/data/Projects/xpkg/README;0;4
+FILE_NAME_1=71;Python;0;16;0;1;1;/data/Projects/xpkg/xpkg.py;0;4
 
 [VTE]
-last_dir=/data/Projects/marvin-xmpp/plugins
+last_dir=/data/Projects/xpkg
 
 [gproject]
 source_patterns=*.c;*.C;*.cpp;*.cxx;*.c++;*.cc;
